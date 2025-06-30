@@ -30,9 +30,13 @@
 
 ## ファイル構成
 TrainNavigation/
+
 ├── main.py # メインスクリプト
+
 ├── graph.py # グラフ構造と経路探索クラス
+
 ├── station_data.csv # 駅と路線の接続情報
+
 └── README.md # このファイル
 
 
